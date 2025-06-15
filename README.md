@@ -7,10 +7,6 @@ I'm learning to code and I have interest in developing AI models.
 
 ![hacker-pc](https://github.com/user-attachments/assets/2708b5d8-1cc5-4839-a525-33d7c3a9c6ba)
 
-<br>Feel free to connect & let's learn --cough-- _copy code_ --cough-- together.<br>
-
-![apes-together](https://github.com/user-attachments/assets/45e298e2-609a-4bbf-95b2-31a04afdbc7a)
-
 <br>🔭 I’m currently working on: myself.<br>🌱 I’m currently (re)learning Python & SQL<br>💬 Ask me about ANYTHING (I might be wrong)<br>⚡Somewhere in the galaxy, if a being with a telescope powerful enough is watching Earth, they might be seeing you from years ago — maybe even while you're on your towel. Light and time obey physics, not privacy.
 
 ## 🌐 Socials:
@@ -31,3 +27,8 @@ I'm learning to code and I have interest in developing AI models.
 [![](https://visitcount.itsvg.in/api?id=namrawhsehaM&icon=0&color=3)](https://visitcount.itsvg.in)
 
  I did this with the help of : [GPRM](https://gprm.itsvg.in)
+
+## And finally...
+<br>Feel free to connect & let's learn --cough-- _copy code_ --cough-- together.<br>
+
+![apes-together](https://github.com/user-attachments/assets/45e298e2-609a-4bbf-95b2-31a04afdbc7a)
